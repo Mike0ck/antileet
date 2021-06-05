@@ -2,11 +2,13 @@
 Leet content eltávolító script-ek Facebook posztokhoz.
  * **Soft**: Csak a posztok tartalmát cseréli le 'Leet Shitpost'-ra, így a kommentek/reakciók/stb látszanak.
  * **Hard**: Mintha sose lett volna ott a poszt.
+ * **SZIA URAM!**: Egy kedves Úr megvédi önt a Leet-től.
 ### Telepítés:
 * **Tampermonkey** beszerzése bármelyik böngészőhöz. ([Link](https://www.tampermonkey.net))
 * Az antileet telepítése a tampermonkeyhoz:
   * [soft link](https://github.com/Mike0ck/antileet/raw/main/soft.user.js)
   * [hard link](https://github.com/Mike0ck/antileet/raw/main/hard.user.js)
+  * [sziauram link](https://github.com/Mike0ck/antileet/raw/main/sziauram.user.js)
   * (Ezek beadnak egy új lapot, ott lesz egy `Telepítés`/`Install` gomb.)
 * Telepítés után rögtön be lesz kapcsolva, és onnantól kezdve addig működik, amíg ki nem törlöd/kapcsolod, vagy amíg nem változtat valamit a Facebook ami tönkreteszi.
 ### Kikapcsolás/Bekapcsolás:
